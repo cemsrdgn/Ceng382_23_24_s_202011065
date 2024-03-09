@@ -4,22 +4,22 @@
 <head>
     <title>LoginPage</title>
 
-    <h1>User Login</h1>
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link rel="stylesheet" href="../CSS/animation.css">
 </head>
-<body>
-    <form>
-        <label for="fname">Username:</label><br>
-        <input type="text" id="fname" name="fname"><br>
-        <label for="lname">Password:</label><br>
-        <input type="text" id="lname" name="lname"><br><br>
-        <input type="submit" value="Login">
+<body >
+    <div class="loginRegisterContainer">
+        <h1 class="title">Login</h1>
+    <form >
+        <label class="loginRegisterFormLabel" for="fname">Username:</label><br>
+        <input class="loginRegisterFormTextBox" type="text" id="fname" name="fname"><br>
+        <label class="loginRegisterFormLabel" for="lname">Password:</label><br>
+        <input class="loginRegisterFormTextBox" type="password" id="lname" name="lname"><br><br>
+        <input class="loginRegisterButton" type="submit" value="Login">
+        <span>Don't have an account? </span>
+        <a class="loginRegisterFormLabel" link rel="stylesheet" href="Registration.html">Register</a>
       </form> 
+    </div>
 </body>
-
-
-
-
-
-
 
 </html>

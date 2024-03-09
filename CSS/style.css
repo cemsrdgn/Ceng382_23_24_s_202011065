@@ -1,0 +1,84 @@
+
+.loginRegisterContainer {
+    text-align: left;
+    background-color:rgb(243, 243, 243);
+    border-radius: 5%;
+    width: 30%;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: auto;
+    box-shadow: 0px 0px 10px rgba(28, 104, 0, 0.3);
+    
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+    
+}
+ 
+.loginRegisterContainer .title {
+    text-align: center;
+    width: 100%;
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: green;
+}
+
+.loginRegisterFormLabel{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    color: rgb(89, 89, 89);
+}
+
+.loginRegisterFormTextBox{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-color:rgb(89, 89, 89);
+
+}
+
+.loginRegisterButton{ 
+    width: 100%; 
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: green;
+    border-color: white;
+    margin-bottom: 30px;
+}
+
+
+#reservationTable {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  
+#reservationTable td, #reservationTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  #reservationTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+  }
+
+  .reservationTitle{
+    text-align: center;
+}
