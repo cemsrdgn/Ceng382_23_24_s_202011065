@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj": {}
+    "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj": {
+    "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj",
+        "projectUniqueName": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj",
         "projectName": "labProject",
-        "projectPath": "c:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj",
+        "projectPath": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\labProject.csproj",
         "packagesPath": "C:\\Users\\cemsr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\obj\\",
+        "outputPath": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\labProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cemsr\\AppData\\Roaming\\NuGet\\NuGet.Config"

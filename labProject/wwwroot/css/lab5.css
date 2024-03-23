@@ -1,0 +1,24 @@
+.aForm{
+    align-items: center;
+    display: none;
+    padding: 30px;
+    border: 1px solid ;
+    border-color: rgb(173, 184, 237);
+    border-radius: 5%;
+    width: 400px;
+    font-size: large;
+    margin-left: 35%;
+    }
+
+
+
+.answerForm{
+display: none;
+padding: 5px;
+width: 400px;
+background-color: rgba(178, 255, 178, 0.527); 
+color: rgb(12, 93, 12) ;
+font-size: x-large;
+margin-left: 455px;
+}
+
