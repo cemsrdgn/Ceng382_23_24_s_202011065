@@ -1,0 +1,15 @@
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\bin\Debug\net8.0\Ceng382_23_24_s_202011065.exe
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\bin\Debug\net8.0\Ceng382_23_24_s_202011065.deps.json
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\bin\Debug\net8.0\Ceng382_23_24_s_202011065.runtimeconfig.json
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\bin\Debug\net8.0\Ceng382_23_24_s_202011065.dll
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\bin\Debug\net8.0\Ceng382_23_24_s_202011065.pdb
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.AssemblyInfoInputs.cache
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.AssemblyInfo.cs
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.csproj.CoreCompileInputs.cache
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.sourcelink.json
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.dll
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\refint\Ceng382_23_24_s_202011065.dll
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.pdb
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\Ceng382_23_24_s_202011065.genruntimeconfig.cache
+C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\obj\Debug\net8.0\ref\Ceng382_23_24_s_202011065.dll
