@@ -3,11 +3,13 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using ReservationSystem;
 
+/*
 public class RoomData
 {
     [JsonPropertyName("Room")]
     public Room[] Rooms { get; set; }
 }
+*/
 class Program
 {
     static void Main(String[] args)
