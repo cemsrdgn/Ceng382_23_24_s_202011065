@@ -1,46 +1,60 @@
 using System;
-using System.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace ReservationSystem
 {
     public record Reservation
     {
-        private DateTime Time { get; set; }
-        private DateTime Date { get; set; }
-        private string ReserverName { get; set; }
-        private Room Room { get; set; }
+        [JsonPropertyName("reservationTime")]
+        public DateTime Time { get; set; }
 
-        public DateTime getTime(){
+        [JsonPropertyName("reservationDate")]
+        public DateTime Date { get; set; }
+
+        [JsonPropertyName("reserverName")]
+        public string? ReserverName { get; set; }
+
+        [JsonPropertyName("room")]
+        public Room? Room { get; set; }
+
+        public DateTime GetTime()
+        {
             return this.Time;
         }
 
-        public DateTime getDate(){
+        public DateTime GetDate()
+        {
             return this.Date;
         }
 
-        public string getReserverName(){
+        public string? GetReserverName()
+        {
             return this.ReserverName;
         }
 
-        public Room getRoom(){
+        public Room? GetRoom()
+        {
             return this.Room;
         }
 
-        public void setTime(DateTime value){
-            this.Time = value;
+        public void SetTime(DateTime time)
+        {
+            this.Time = time;
         }
 
-        public void setDate(DateTime value){
-            this.Date = value;
+        public void SetDate(DateTime date)
+        {
+            this.Date = date;
         }
 
-        public void setReserverName(string value){
-            this.ReserverName = value;
+        public void SetReserverName(string reserverName)
+        {
+            this.ReserverName = reserverName;
         }
 
-        public void setRoom(Room value){
-            this.Room = value;
+        public void SetRoom(Room room)
+        {
+            this.Room = room;
         }
 
     }

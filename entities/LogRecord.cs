@@ -1,38 +1,42 @@
 using System;
 
-
 namespace ReservationSystem
 {
     public record LogRecord
     {
-        private DateTime TimeStamp { get; set; }
-        private string ReserverName { get; set;}
-        private string RoomName { get; set; }
+        private DateTime TimeStamp;
+        private string ReserverName;
+        private string RoomName;
 
-        public DateTime getTimeStamp(){
+        public LogRecord(DateTime timeStamp, string reserverName, string roomName){
+
+            TimeStamp = timeStamp;
+            ReserverName = reserverName;
+            RoomName = roomName;
+        }
+
+        public DateTime GetTimeStamp(){
             return this.TimeStamp;
         }
 
-        public string getReserverName(){
+        public string GetReserverName(){
             return this.ReserverName;
         }
 
-        public string getRoomName(){
+        public string GetRoomName(){
             return this.RoomName;
         }
 
-        public void setTimeStamp(DateTime value){
-            this.TimeStamp = value;
+        public void SetTimeStamp(DateTime timeStamp){
+            this.TimeStamp = timeStamp;
         }
 
-        public void setReserverName(string value){
-            this.ReserverName = value;
+        public void SetReserverName(string reserverName){
+            this.ReserverName = reserverName;
         }
 
-        public void setRoomName(string value){
-            this.RoomName = value;
+        public void SetRoomName(string roomName){
+            this.RoomName = roomName;
         }
-
-        
     }
 }
