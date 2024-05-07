@@ -1,6 +1,6 @@
 using ReservationSystem;
 
 public interface ILogger{
+    public void logMessage (string message);
 
-    public void LogRecord(LogRecord log);
 }
