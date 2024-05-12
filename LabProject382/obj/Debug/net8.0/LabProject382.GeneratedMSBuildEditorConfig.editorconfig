@@ -18,16 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\cemsr\Desktop\temp382\Ceng382_23_24_s_202011065\LabProject382
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/AddRoom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUm9vbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/ListRooms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdFJvb21zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cemsr/Desktop/temp382/Ceng382_23_24_s_202011065/LabProject382/Pages/Shared/_ValidationScriptsPartial.cshtml]
