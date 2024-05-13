@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "52nQR7aOI/SJs7oKRpqoEneJDOhwaXYWzMJjOQQYD70=",
+  "Hash": "CEq7WAPsOIPtIdc2oCQMAzJ6AASZJtQlVX7w3G70h9s=",
   "Source": "LabProject382",
   "BasePath": "_content/LabProject382",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\addRoomForm.css"
+    },
+    {
+      "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\index.css",
+      "SourceId": "LabProject382",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\",
+      "BasePath": "_content/LabProject382",
+      "RelativePath": "css/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
       "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\listRoomsTable.css",
@@ -148,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\addRoomForm.js"
+    },
+    {
+      "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\js\\listRoomForm.js",
+      "SourceId": "LabProject382",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\",
+      "BasePath": "_content/LabProject382",
+      "RelativePath": "js/listRoomForm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\listRoomForm.js"
     },
     {
       "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\js\\site.js",
