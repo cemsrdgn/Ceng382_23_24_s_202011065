@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\LabProject382.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\addRoomForm.css",
+      "PackagePath": "staticwebassets\\css\\addRoomForm.css"
+    },
+    {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\listRoomsTable.css",
+      "PackagePath": "staticwebassets\\css\\listRoomsTable.css"
+    },
+    {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\js\\addRoomForm.js",
+      "PackagePath": "staticwebassets\\js\\addRoomForm.js"
+    },
+    {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\js\\listRoomForm.js",
+      "PackagePath": "staticwebassets\\js\\listRoomForm.js"
     },
     {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\LabProject382\\wwwroot\\js\\site.js",
