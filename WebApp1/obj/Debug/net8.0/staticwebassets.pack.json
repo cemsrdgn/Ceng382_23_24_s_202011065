@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\addRoomForm.css"
     },
     {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\css\\createReservationForm.css",
+      "PackagePath": "staticwebassets\\css\\createReservationForm.css"
+    },
+    {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
@@ -37,8 +41,16 @@
       "PackagePath": "staticwebassets\\js\\addRoomForm.js"
     },
     {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\createReservationForm.js",
+      "PackagePath": "staticwebassets\\js\\createReservationForm.js"
+    },
+    {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\listRoomForm.js",
       "PackagePath": "staticwebassets\\js\\listRoomForm.js"
+    },
+    {
+      "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\reservationTable.js",
+      "PackagePath": "staticwebassets\\js\\reservationTable.js"
     },
     {
       "Id": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\site.js",

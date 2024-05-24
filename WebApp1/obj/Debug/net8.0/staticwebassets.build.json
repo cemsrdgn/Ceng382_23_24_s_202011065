@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nW9Hmx4lIOvONQt1i32UFDQUol6Tv99viyd7xK9w0to=",
+  "Hash": "mZ94sioB6hrL3uCucQcdIZp9/Kgdg9w6F8FMyfNr4o0=",
   "Source": "WebApp1",
   "BasePath": "_content/WebApp1",
   "Mode": "Default",
@@ -1214,6 +1214,25 @@
       "OriginalItemSpec": "wwwroot\\css\\addRoomForm.css"
     },
     {
+      "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\css\\createReservationForm.css",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "css/createReservationForm.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\createReservationForm.css"
+    },
+    {
       "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\css\\index.css",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
@@ -1347,6 +1366,25 @@
       "OriginalItemSpec": "wwwroot\\js\\addRoomForm.js"
     },
     {
+      "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\createReservationForm.js",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "js/createReservationForm.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\createReservationForm.js"
+    },
+    {
       "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\listRoomForm.js",
       "SourceId": "WebApp1",
       "SourceType": "Discovered",
@@ -1364,6 +1402,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\listRoomForm.js"
+    },
+    {
+      "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\reservationTable.js",
+      "SourceId": "WebApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\",
+      "BasePath": "_content/WebApp1",
+      "RelativePath": "js/reservationTable.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\reservationTable.js"
     },
     {
       "Identity": "C:\\Users\\cemsr\\Desktop\\temp382\\Ceng382_23_24_s_202011065\\WebApp1\\wwwroot\\js\\site.js",
